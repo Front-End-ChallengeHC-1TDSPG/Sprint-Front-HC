@@ -460,6 +460,49 @@ img {
     display: flex;
   }
 }
+@media (min-width: 600px) {
+  .grid-beneficios {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .hero {
+    padding: 120px 0;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+  }
+
+  .hero p {
+    font-size: 1.3rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .grid-beneficios {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .passo-conteudo {
+    padding: 0 30px;
+  }
+}
+
+@media (min-width: 1300px) {
+  .container {
+    max-width: 1400px;
+  }
+
+  .hero {
+    padding: 150px 0;
+  }
+
+  .hero h1 {
+    font-size: 3.5rem;
+  }
+}
 /* Página FAQ */
 .faq {
   padding: 80px 0;
