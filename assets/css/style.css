@@ -526,3 +526,93 @@ img {
 .pergunta.ativa .icone {
   transform: rotate(45deg);
 }
+/* Página Contato */
+.contato {
+  padding: 80px 0;
+}
+
+.contato h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: var(--cor-primaria);
+}
+
+.contato .subtitulo {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.contato-conteudo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 50px;
+}
+
+.contato-info h2 {
+  margin-bottom: 20px;
+  color: var(--cor-primaria);
+}
+
+.contato-info address {
+  font-style: normal;
+  margin-bottom: 30px;
+}
+
+.contato-info p {
+  margin-bottom: 10px;
+}
+
+.redes-sociais {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.form-contato {
+  background-color: var(--cor-texto-claro);
+  padding: 30px;
+  border-radius: var(--borda-arredondada);
+  box-shadow: var(--sombra);
+}
+
+.form-grupo {
+  margin-bottom: 20px;
+}
+
+.form-grupo label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: var(--cor-primaria);
+}
+
+.form-grupo input,
+.form-grupo select,
+.form-grupo textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--borda-arredondada);
+  font-family: inherit;
+  transition: var(--transicao);
+}
+
+.form-grupo input:focus,
+.form-grupo select:focus,
+.form-grupo textarea:focus {
+  outline: none;
+  border-color: var(--cor-secundaria);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+.form-grupo textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.mensagem-erro {
+  color: var(--cor-terciaria);
+  font-size: 0.8rem;
+  margin-top: 5px;
+  display: none;
+}
