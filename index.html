@@ -3,9 +3,111 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
+    <title>Saúde Digital Acessível</title>
+    <meta name="description" content="Facilitando o acesso à saúde digital para todos">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsivo.css">
 </head>
 <body>
-    
+    <header class="cabecalho">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="./assets/img/logoHC.png" alt="Logo Saúde Digital Acessível" width="75">
+            </a>
+            <nav class="menu-principal">
+                <button class="menu-mobile" aria-label="Abrir menu">☰</button>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="guia.html">Guia de Uso</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                    <li><a href="integrantes.html">Quem Somos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="conteudo-principal">
+        <section class="hero">
+            <div class="container">
+                <h1>Saúde Digital para Todos</h1>
+                <p>Facilitando o acesso à saúde digital para pessoas com dificuldade em usar celulares</p>
+                <a href="guia.html" class="botao">Conheça nosso Guia</a>
+            </div>
+        </section>
+
+        <section class="beneficios">
+            <div class="container">
+                <h2>Como podemos ajudar</h2>
+                <div class="grid-beneficios">
+                    <article class="beneficio">
+                        <img src="./assets/img/interfaceImagem.jpg" alt="Ícone acessibilidade" width="80">
+                        <h3>Interface Simples</h3>
+                        <p>Design intuitivo com ícones grandes e texto legível</p>
+                    </article>
+                    <article class="beneficio">
+                        <img src="./assets/img/VideoImagem.jpg" alt="Ícone vídeo" width="80">
+                        <h3>Tutoriais em Vídeo</h3>
+                        <p>Passo a passo visual para cada funcionalidade</p>
+                    </article>
+                    <article class="beneficio">
+                        <img src="./assets/img/BotImagem.jpg" alt="Ícone suporte" width="80">
+                        <h3>Suporte Humanizado</h3>
+                        <p>Atendimento personalizado por telefone ou vídeo</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="estatisticas">
+            <div class="container">
+                <h2>Nosso Impacto</h2>
+                <div class="dados">
+                    <div class="dado">
+                        <span class="numero" id="absenteismo">20%</span>
+                        <span class="legenda">Redução no absenteísmo</span>
+                    </div>
+                    <div class="dado">
+                        <span class="numero">85%</span>
+                        <span class="legenda">Satisfação dos usuários</span>
+                    </div>
+                    <div class="dado">
+                        <span class="numero">1.2k</span>
+                        <span class="legenda">Pessoas impactadas</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <div class="container">
+            <div class="rodape-coluna">
+                <h3>Saúde Digital Acessível</h3>
+                <p>Facilitando o acesso à saúde digital para todos</p>
+            </div>
+            <div class="rodape-coluna">
+                <h3>Links Úteis</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="guia.html">Guia de Uso</a></li>
+                    <li><a href="faq.html">Perguntas Frequentes</a></li>
+                </ul>
+            </div>
+            <div class="rodape-coluna">
+                <h3>Contato</h3>
+                <address>
+                    <p>Email: ouvidoria.inrad@hc.fm.usp.br</p>
+                    <p>Telefone para agendamento: (11) 2661-7058</p>
+                    <p>Telefone para Ouvidoria (11) 2661-7556</p>
+                </address>
+            </div>
+        </div>
+        <div class="rodape-creditos">
+            <p>&copy; 2023 Saúde Digital Acessível. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>
