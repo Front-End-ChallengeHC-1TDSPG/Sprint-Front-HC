@@ -611,6 +611,10 @@ img {
   margin-top: 20px;
 }
 
+.redes-sociais .rede-social img{
+  width: 40px;
+}
+
 .form-contato {
   background-color: var(--cor-texto-claro);
   padding: 30px;
