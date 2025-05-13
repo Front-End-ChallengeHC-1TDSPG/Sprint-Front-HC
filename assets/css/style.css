@@ -1,6 +1,6 @@
 /* Reset e Estilos Base */
 :root {
-  --cor-primaria: rgba(47, 143, 240, 0.8);
+  --cor-primaria: #20A0D8;
   --cor-secundaria: #3498db;
   --cor-terciaria: #e74c3c;
   --cor-texto: #333;
@@ -114,7 +114,7 @@ img {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(47, 143, 240, 0.8), rgba(151, 188, 224, 0.8));
+  background: linear-gradient(#20A0D8, rgba(151, 188, 224, 0.8));
   background-size: cover;
   background-position: center;
   color: var(--cor-texto-claro);
@@ -286,7 +286,7 @@ img {
 }
 /* Página Guia de Uso */
 .destaque-guia {
-  background: linear-gradient(rgba(47, 143, 240, 0.8), rgba(151, 188, 224, 0.8));
+  background: linear-gradient(#20A0D8, rgba(151, 188, 224, 0.8));
   background-size: cover;
   background-position: center;
   color: var(--cor-texto-claro);
