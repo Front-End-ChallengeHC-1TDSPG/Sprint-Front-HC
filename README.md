@@ -55,6 +55,8 @@ saude-digital-acessivel/
 - ✅ FAQ interativo
 - ✅ Guia passo a passo
 - ✅ Página "Quem Somos"
+- ✅ Página Login
+- ✅ Página Cadastro
 
 
 
