@@ -14,24 +14,34 @@ saude-digital-acessivel/
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
-│   │   └── responsivo.css
+│   │   └── login.css
 │   ├── img/
-│   │   ├── logoHC.png
+│   │   ├── iconeLogoHC.png
 │   │   ├── FacebookLogo.jpg
 │   │   ├── InstagramLogo.jpg
 │   │   ├── Guia1.jpg
 │   │   ├── Guia2.jpg
 │   │   ├── Guia3.jpg
 │   │   └── Guia4.jpg
+│   │   └── andre-imagem.jpg
+│   │   └── Gabriel-imagem.jpg
+│   │   └── logo_parceria_hc_jag_ajustada.jpg
+│   │   └── VideoImagem.jpg
+│   │   └── BotImagem.jpg
+│   │   └── interfaceImagem.jpg
+│   │   └── joaoImagem.jpg
 │   └── js/
 │       ├── form-validation.js
 │       └── script.js
+│       └── validacao-cadastro.js
 ├
 │── ├── contato.html
 │   ├── faq.html
 │   ├── guia.html
 │   ├── index.html
 │   └── integrantes.html
+    └── login.html
+    └── cadastro.html
 └── README.md
 ```
 
