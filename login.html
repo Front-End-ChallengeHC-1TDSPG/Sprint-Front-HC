@@ -1,11 +1,29 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pagina de Login</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login</title>
+  <link rel="stylesheet" href="./assets/css/login.css" />
+  <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-    
+  <section class="form-container">
+    <div class="form-box">
+      <h2>Login</h2>
+      <form action="#" method="post">
+        <div class="form-grupo">
+          <label for="cpf-login">CPF</label>
+          <input type="text" id="cpf-login" name="cpf-login" placeholder="Digite seu CPF" required>
+        </div>
+        <div class="form-grupo">
+          <label for="telefone-login">Telefone</label>
+          <input type="tel" id="telefone-login" name="telefone-login" placeholder="Digite seu telefone" required>
+        </div>
+        <button type="submit" class="botao">Entrar</button>
+      </form>
+      <p class="link">Ainda não tem conta? <a href="cadastro.html">Cadastre-se</a></p>
+    </div>
+  </section>
 </body>
 </html>
