@@ -103,3 +103,8 @@ body {
     grid-template-columns: 1fr;
   }
 }
+.erro {
+  color: red;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
