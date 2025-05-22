@@ -44,8 +44,8 @@ saude-digital-acessivel/
 ## 👥 Integrantes
 | Nome | RM | GitHub | LinkedIn |
 |------|----|--------|----------|
-| André Emygdio Ferreira | 565592 | [Asuyz](https://github.com/Asuyz) | - |
-| Gabriel Lourenço Müller | 561995 | [glMuller](https://github.com/glMuller) | - |
+| André Emygdio Ferreira | 565592 | [Asuyz](https://github.com/Asuyz) | [Perfil LinkedIn](https://www.linkedin.com/in/andr%C3%A9-emygdio-ferreira-46bb32219/) |
+| Gabriel Lourenço Müller | 561995 | [glMuller](https://github.com/glMuller) | [Perfil LinkedIn](https://www.linkedin.com/in/gabriel-m%C3%BCller-595020354/) |
 | João Victor Nascimento Adão | 563409 | [yJoaoVictor10](https://github.com/yJoaoVictor10) | [Perfil LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-ad%C3%A3o-494728283/) |
 
 ## ✨ Funcionalidades
