@@ -727,3 +727,22 @@ img {
   color: var(--cor-secundaria);
   font-weight: 500;
 }
+.menu-principal ul li a[href="login.html"] {
+  background-color: var(--cor-secundaria); /* usando sua cor secundária */
+  color: var(--cor-texto-claro);
+  padding: 3px 25px;
+  border-radius: var(--borda-arredondada);
+  font-weight: 600;
+  text-decoration: none;
+  transition: var(--transicao);
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-principal ul li a[href="login.html"]:hover {
+  background-color: #2980b9; /* tom mais escuro do azul */
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  color: var(--cor-texto-claro);
+}
