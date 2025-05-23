@@ -68,7 +68,7 @@ Sprint-Front-HC/
 - ✅ Página Login
 - ✅ Página Cadastro
 
-
+## 🖥️ Endereço do repositório do projeto no GITHUB: https://github.com/Front-End-ChallengeHC-1TDSPG/Sprint-Front-HC
 
 
 <div align="center">
