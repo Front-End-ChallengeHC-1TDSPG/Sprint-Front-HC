@@ -10,7 +10,7 @@ Desenvolver uma plataforma web que facilite o acesso aos serviços de saúde dig
 
 ## 📂 Estrutura de Pastas
 ```
-saude-digital-acessivel/
+Sprint-Front-HC/
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
