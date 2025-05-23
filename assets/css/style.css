@@ -746,3 +746,10 @@ img {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   color: var(--cor-texto-claro);
 }
+
+.botoes-cta{
+  margin-bottom: 20px;
+}
+  
+
+
