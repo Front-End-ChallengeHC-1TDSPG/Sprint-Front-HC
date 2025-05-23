@@ -16,20 +16,20 @@ Sprint-Front-HC/
 │   │   ├── style.css
 │   │   └── login.css
 │   ├── img/
-│   │   ├── iconeLogoHC.png
-│   │   ├── FacebookLogo.jpg
-│   │   ├── InstagramLogo.jpg
-│   │   ├── Guia1.jpg
-│   │   ├── Guia2.jpg
-│   │   ├── Guia3.jpg
-│   │   └── Guia4.jpg
+│   │   ├── iconelogoHC.png
+│   │   ├── facebooklogo.jpg
+│   │   ├── instagramlogo.jpg
+│   │   ├── guia1.jpg
+│   │   ├── guia2.jpg
+│   │   ├── guia3.jpg
+│   │   └── guia4.jpg
 │   │   └── andre-imagem.jpg
-│   │   └── Gabriel-imagem.jpg
+│   │   └── gabriel-imagem.jpg
 │   │   └── logo_parceria_hc_jag_ajustada.jpg
-│   │   └── VideoImagem.jpg
-│   │   └── BotImagem.jpg
-│   │   └── interfaceImagem.jpg
-│   │   └── joaoImagem.jpg
+│   │   └── videoimagem.jpg
+│   │   └── botimagem.jpg
+│   │   └── interfaceimagem.jpg
+│   │   └── joaoimagem.jpg
 │   └── js/
 │       ├── form-validation.js
 │       └── script.js
